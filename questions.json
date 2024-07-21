@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Find the value of z.",
+    "options": ["150∘", "130∘", "110∘", "100∘"],
+    "correct": 1,
+    "img": "./assests/images/1.jpg"
+  },
+  {
+    "question": "Find the supplement of 120∘.",
+    "options": ["60∘", "120∘", "90∘", "180∘"],
+    "correct": 0
+  },
+  {
+    "question": "If the complement of an angle is 18∘, then find the supplement of the angle.",
+    "options": ["72∘", "90∘", "118∘", "108∘"],
+    "correct": 3
+  },
+  {
+    "question": "The measure of the angle is 77.5∘. What type of angle is formed by the intersecting paths?",
+    "options": ["Acute angle", "Right angle", "Obtuse angle", "Straight angle"],
+    "correct": 0
+  },
+  {
+    "question": "What type of angle is 145∘?",
+    "options": ["Acute angle", "Right angle", "Obtuse angle", "Straight angle"],
+    "correct": 2
+  }
+]
